@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Verificarenergia</string>
+    <style name="Base.Theme.Verificarenergia" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimaryVariant">@color/black</item>
+    </style>
+    <style name="Theme.Verificarenergia" parent="Base.Theme.Verificarenergia"/>
+</resources>

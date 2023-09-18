@@ -1,0 +1,23 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id AppbarLayout
+id Calcular
+id Constraintmain
+id Horas
+id Potencia
+id Tarifa
+id Toolbar
+id Valor
+id scroll
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.Verificarenergia
+style Theme.Verificarenergia
+xml backup_rules
+xml data_extraction_rules
