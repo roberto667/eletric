@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="aparelhos">
+        <item>Geladeira</item>
+        <item>Grove</item>
+        <item>Ventilador</item>
+    </string-array>
+    <color name="black">#FF000000</color>
+    <color name="gray">#242222</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Verificarenergia</string>
+    <style name="Base.Theme.Verificarenergia" parent="Theme.Material3.DayNight.NoActionBar">
+
+        <item name="colorPrimary">@color/black</item>
+        <item name="colorSecondary">@color/white</item>
+    </style>
+    <style name="Theme.Verificarenergia" parent="Base.Theme.Verificarenergia"/>
+</resources>
