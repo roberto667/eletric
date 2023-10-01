@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VerificarEnergia</string>
+    <string-array name="aparelhos" >
+        <item>Geladeira</item>
+        <item>Grove</item>
+        <item>Ventilador</item>
+    </string-array>
+</resources>
