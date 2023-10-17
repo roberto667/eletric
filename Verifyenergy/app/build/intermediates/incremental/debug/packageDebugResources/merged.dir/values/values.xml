@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="aparelhos">
+        <item>Amalgamador, 200</item>
+        <item>Amplificador de som, 100</item>
+        <item>Aparelho de endoscopia, 45</item>
+        <item>Aparelho de obturação, 155</item>
+        <item>Aparelho de ultrassonografia, 600</item>
+        <item>Aquecedor de água 200 litros, 2.000</item>
+        <item>Aquecedor de água até 175 litros, 1.500</item>
+        <item>Ar-condicionado 6.000 BTU, 800</item>
+        <item>Ar-condicionado 7.100 BTU, 900</item>
+        <item>Ar-condicionado 7.500 BTU, 1.200</item>
+        <item>Ar-condicionado 8.500 BTU, 1.300</item>
+        <item>Ar-condicionado 9.000 BTU, 1.400</item>
+        <item>Ar-condicionado 10.000 BTU, 1.400</item>
+        <item>Ar-condicionado 10.500 BTU, 1.550</item>
+        <item>Ar-condicionado 11.000 BTU, 1.600</item>
+        <item>Ar-condicionado 12.000 BTU, 1.700</item>
+        <item>Ar-condicionado 14.000 BTU, 1.900</item>
+        <item>Ar-condicionado 15.000 BTU, 2.000</item>
+        <item>Ar-condicionado 16.000 BTU, 2.100</item>
+        <item>Ar-condicionado 18.000 BTU, 2.600</item>
+        <item>Ar-condicionado 21.000 BTU, 2.800</item>
+        <item>Ar-condicionado 26.000 BTU, 3.200</item>
+        <item>Ar-condicionado 30.000 BTU, 3.600</item>
+        <item>Aspirador de pó comercial, 1.000</item>
+        <item>Aspirador de pó industrial, 2.240</item>
+        <item>Aspirador de pó residencial, 750</item>
+        <item>Assadeira grande, 1.000</item>
+        <item>Assadeira pequena, 500</item>
+        <item>Balança elétrica, 20</item>
+        <item>Balcão frigorífico grande, 1.000</item>
+        <item>Balcão frigorífico pequeno, 500</item>
+        <item>Balcão para sorvete, 1.304</item>
+        <item>Balcão térmico, 762</item>
+        <item>Banho maria (restaurante), 1.822</item>
+        <item>Barbeador elétrico, 50</item>
+        <item>Batedeira de bolo, 100</item>
+        <item>Batedeira industrial, 304</item>
+        <item>Bebedouro, 200</item>
+        <item>Betoneira, 1.000</item>
+        <item>Boiler, 1.122</item>
+        <item>Bomba d\'água 1/2 CV, 368</item>
+        <item>Bomba d\'água 1/4 CV, 184</item>
+        <item>Bomba d\'água 1 CV, 736</item>
+        <item>Bomba d\'água 1.1/2 CV, 1.104</item>
+        <item>Bomba d\'água 1.1/4 CV, 920</item>
+        <item>Bomba d\'água 2 CV, 1.472</item>
+        <item>Bomba d\'água 3 CV, 2.208</item>
+        <item>Bomba d\'água 3/4 CV, 552</item>
+        <item>Bomba de combustível, 736</item>
+        <item>Bomba sapo, 300</item>
+        <item>Cadeira de dentista, 184</item>
+        <item>Cafeteira elétrica, 500</item>
+        <item>Cafeteira elétrica, 750</item>
+        <item>Câmara de fermentação, 350</item>
+        <item>Câmara frigorífica, 22.080</item>
+        <item>Carregador de bateria, 660</item>
+        <item>Central de ar (1tr), 1.817</item>
+        <item>Central telefônica, 30</item>
+        <item>Chuveiro elétrico, 4.500</item>
+        <item>Chuveiro quatro estações, 6.500</item>
+        <item>Cilindro, 2.210</item>
+        <item>Compact disc laser, 30</item>
+        <item>Compressor, 368</item>
+        <item>Computador, 300</item>
+        <item>Conjunto de som/Microsystems, 100</item>
+        <item>Cortador de grama, 1.600</item>
+        <item>Deck, 30</item>
+        <item>Depenador de galinha, 891</item>
+        <item>Descascador de batatas, 1.000</item>
+        <item>Desempeno, 368</item>
+        <item>DVD, 30</item>
+        <item>Elevador grande, 10.304</item>
+        <item>Enceradeira, 400</item>
+        <item>Equalizador, 30</item>
+        <item>Esmeril, 2.208</item>
+        <item>Espigadeira, 2.208</item>
+        <item>Espremedor de frutas, 50</item>
+        <item>Estabilizador, 920</item>
+        <item>Esteira rolante, 1.472</item>
+        <item>Esterilizador - Material Salão Beleza, 50</item>
+        <item>Estufa, 1.000</item>
+        <item>Estufa dentista, 1.000</item>
+        <item>Etiquetadora, 70</item>
+        <item>Exaustor grande, 400</item>
+        <item>Exaustor pequeno, 200</item>
+        <item>Faca elétrica, 140</item>
+        <item>Fatiador, 736</item>
+        <item>Fax, 50</item>
+        <item>Ferro de solda grande, 600</item>
+        <item>Ferro de solda médio, 400</item>
+        <item>Ferro de solda pequeno, 100</item>
+        <item>Ferro elétrico, 550</item>
+        <item>Ferro elétrico automático, 1.000</item>
+        <item>Fogão comum com acendedor, 90</item>
+        <item>Fogão elétrico, 2.000</item>
+        <item>Forno elétrico ABC com 1 câmara, 2.000</item>
+        <item>Forno elétrico Capital com 2 câmara, 10.000</item>
+        <item>Forno elétrico Curitiba, 38.000</item>
+        <item>Forno elétrico Eletro grant com 3 câmara, 24.400</item>
+        <item>Forno elétrico Especial com 2 câmara, 30.000</item>
+        <item>Forno elétrico Hiper vulcão com 4 câmara, 22.000</item>
+        <item>Forno elétrico Ital bras com 2 câmara, 25.000</item>
+        <item>Forno elétrico Mag forno com 2 câmara, 21.600</item>
+        <item>Forno elétrico Metalconte com 1 câmara, 3.000</item>
+        <item>Forno elétrico Olímpio com 2 câmaras, 52.200</item>
+        <item>Forno elétrico Pastelar ital bras, 16.500</item>
+        <item>Forno elétrico Sire com 1 câmara, 3.000</item>
+        <item>Forno elétrico superfecta com 2 câmara, 28.000</item>
+        <item>Forno elétrico Tubos lisboa com 1 câmara, 28.000</item>
+        <item>Forno elétrico Universal com 2 câmara, 35.000</item>
+        <item>Forno elétrico Universal com 2 câmara, 36.000</item>
+        <item>Forno micro-ondas, 1.140</item>
+        <item>Forno p/cerâmica grande, 8.500</item>
+        <item>Forno p/cerâmica médio, 6.000</item>
+        <item>Forno p/cerâmica pequeno, 2.000</item>
+        <item>Forrageira, 736</item>
+        <item>Foto-colorimento, 550</item>
+        <item>Freezer, 100</item>
+        <item>Freezer horizontal 170 l, 90</item>
+        <item>Freezer horizontal 220 l, 120</item>
+        <item>Freezer horizontal 330 l, 150</item>
+        <item>Freezer horizontal 480 l, 750</item>
+        <item>Freezer horizontal 600 l, 750</item>
+        <item>Freezer vertical 120 l, 90</item>
+        <item>Freezer vertical 180 l, 120</item>
+        <item>Freezer vertical 280 l, 150</item>
+        <item>Frigobar, 80</item>
+        <item>Fritadeira grande, 5.000</item>
+        <item>Fritadeira média, 3.000</item>
+        <item>Fritadeira pequena, 2.000</item>
+        <item>Furadeira grande, 1.000</item>
+        <item>Furadeira pequena, 350</item>
+        <item>Geladeira comum 253 l, 90</item>
+        <item>Geladeira comum 280 l, 100</item>
+        <item>Geladeira comum 310 l, 120</item>
+        <item>Geladeira duplex 430 l, 150</item>
+        <item>Geladeira triplex 430 l, 150</item>
+        <item>Grelha elétrica grande, 1.500</item>
+        <item>Grelha elétrica pequena, 500</item>
+        <item>Grill, 1.200</item>
+        <item>Hidromassagem, 368</item>
+        <item>Impressora comum, 90</item>
+        <item>Impressora laser, 800</item>
+        <item>Iogurteira, 30</item>
+        <item>Lâmpada dicroica, 50</item>
+        <item>Lâmpada fluorescente 20 W, 20</item>
+        <item>Lâmpada fluorescente 40 W, 40</item>
+        <item>Lâmpada incandescente 100 W, 100</item>
+        <item>Lâmpada incandescente 150 W, 150</item>
+        <item>Lâmpada incandescente 40 W, 40</item>
+        <item>Lâmpada incandescente 60 W, 60</item>
+        <item>Lâmpada infravermelha 150 W, 150</item>
+        <item>Lâmpada mista 160 W, 160</item>
+        <item>Lâmpada mista 250 W, 250</item>
+        <item>Lâmpada pl 10 W, 10</item>
+        <item>Lâmpada pl 15 W, 15</item>
+        <item>Lâmpada pl 20 W, 20</item>
+        <item>Lâmpada pl 30 W, 30</item>
+        <item>Lâmpada vapor mercúrio 125 W, 125</item>
+        <item>Lâmpada vapor mercúrio 250 W, 250</item>
+        <item>Lâmpada vapor sódio 100 W, 100</item>
+        <item>Lâmpada vapor sódio 150 W, 150</item>
+        <item>Lâmpada vapor sódio 250 W, 250</item>
+        <item>Lâmpada vapor sódio 400 W, 400</item>
+        <item>Lâmpada vapor sódio 70 W, 70</item>
+        <item>Lava jato, 30.276</item>
+        <item>Liquidificador, 200</item>
+        <item>Liquidificador industrial, 1.000</item>
+        <item>Lixadeira grande, 1.000</item>
+        <item>Lixadeira pequena, 850</item>
+        <item>Máquina colar saco, 281</item>
+        <item>Máquina cortar tecido manual, 373</item>
+        <item>Máquina de calcular, 100</item>
+        <item>Máquina de Chopp, 911</item>
+        <item>Máquina de costura, 850</item>
+        <item>Máquina de escrever elétrica, 140</item>
+        <item>Máquina de gelo, 792</item>
+        <item>Máquina de lava jato, 1.700</item>
+        <item>Máquina de lavar pratos, 1.200</item>
+        <item>Máquina de lavar roupas, 1.000</item>
+        <item>Máquina de overloque industrial, 373</item>
+        <item>Máquina de passar roupas, 6.400</item>
+        <item>Máquina de solda, 1.000</item>
+        <item>Máquina de vulcanizar, 396</item>
+        <item>Máquina de xerox grande, 2.000</item>
+        <item>Máquina de xerox pequena, 1.400</item>
+        <item>Máquina fatiar pão, 324</item>
+        <item>Máquina Injetora com motor elétrico, 5.520</item>
+        <item>Máquina moer farinha roxa, 1.104</item>
+        <item>Máquina p/amaciar carne, 1.417</item>
+        <item>Massageador, 220</item>
+        <item>Masseira, 2.208</item>
+        <item>Mergulhão, 583</item>
+        <item>Micro forno elétrico, 1.000</item>
+        <item>Microcomputador, 350</item>
+        <item>Micro-ondas, 1.200</item>
+        <item>Microscópio eletrônico, 40</item>
+        <item>Minilab, 3.000</item>
+        <item>Mix, 80</item>
+        <item>Modeladora, 490</item>
+        <item>Moedor de café, 370</item>
+        <item>Moedor de carne, 320</item>
+        <item>Moinho, 606</item>
+        <item>Monitor, 154</item>
+        <item>Motor, 750</item>
+        <item>Motor de piscina, 552</item>
+        <item>Multi-corte, 180</item>
+        <item>Panela elétrica, 1.200</item>
+        <item>Penteadeira, 1.417</item>
+        <item>Pipoqueira residencial, 80</item>
+        <item>Pistola de solda, 100</item>
+        <item>Placa luminosa, 220</item>
+        <item>Plaina, 746</item>
+        <item>Polidora, 50</item>
+        <item>Portão elétrico, 184</item>
+        <item>Posto mix, 281</item>
+        <item>Prensa, 1.104</item>
+        <item>Processador/centrífuga, 460</item>
+        <item>Projetor, 215</item>
+        <item>Purificador de ar, 25</item>
+        <item>Rádio comum, 30</item>
+        <item>Rádio relógio digital, 40</item>
+        <item>Radiola de ficha, 300</item>
+        <item>Raios-x (dentista), 1.087</item>
+        <item>Raios-x (hospital), 12.144</item>
+        <item>Ralador de coco, 467</item>
+        <item>Rebobinador, 15</item>
+        <item>Receptor de satélite, 110</item>
+        <item>Refletor, 500</item>
+        <item>Refletor odontológico, 150</item>
+        <item>Registradora elétrica, 100</item>
+        <item>Sauna comercial, 12.000</item>
+        <item>Sauna residencial, 4.500</item>
+        <item>Secador de cabelos grande, 1.500</item>
+        <item>Secador de cabelos pequeno, 1.000</item>
+        <item>Secador de roupas comercial, 5.000</item>
+        <item>Secador de roupas enxuta, 2.429</item>
+        <item>Secador de roupas industrial, 1.100</item>
+        <item>Secretária eletrônica, 20</item>
+        <item>Serra elétrica, 1.000</item>
+        <item>Serra tico-tico grande, 600</item>
+        <item>Serra tico-tico pequena, 240</item>
+        <item>Sorveteira, 20</item>
+        <item>Sterilair, 396</item>
+        <item>Superzon ou similar, 40</item>
+        <item>Teclado, 50</item>
+        <item>Telefone sem fio, 10</item>
+        <item>Televisor 12 a 20 pol., 100</item>
+        <item>Televisor 28 a 30 pol., 150</item>
+        <item>Televisor 5 a 10 pol., 50</item>
+        <item>Televisor preto e branco, 90</item>
+        <item>Toca discos, 30</item>
+        <item>Torneira elétrica, 2.000</item>
+        <item>Torno, 1.817</item>
+        <item>Torquia, 7.266</item>
+        <item>Torradeira, 800</item>
+        <item>Touca térmica, 700</item>
+        <item>Trançadeira, 3.680</item>
+        <item>Triturador de lixo, 1.214</item>
+        <item>Turbo circulador, 200</item>
+        <item>Tv AM/FM, 50</item>
+        <item>Vaporizador, 300</item>
+        <item>Ventilador grande, 250</item>
+        <item>Ventilador médio, 120</item>
+        <item>Ventilador pequeno, 80</item>
+        <item>Vibrador, 1.000</item>
+        <item>Vídeo cassete, 30</item>
+        <item>Vídeo game, 20</item>
+    </string-array>
+    <string-array name="typeEnergy">
+        <item>W</item>
+        <item>kW</item>
+        <item>BTU</item>
+    </string-array>
+    <color name="black">#FF000000</color>
+    <color name="blue">#2196F3</color>
+    <color name="blue2">#87A8C2</color>
+    <color name="blueoff">#8AB7DB</color>
+    <color name="blueoon">#02243F</color>
+    <color name="gray">#181717</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">VerificarEnergia</string>
+    <style name="Base.Theme.Verifyenergy" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+        <item name="colorPrimary">@color/black</item> -->
+
+    </style>
+    <style name="Theme.Verifyenergy" parent="Base.Theme.Verifyenergy"/>
+</resources>
