@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="BACKGROUNG">
+        <item name="android:background">@color/gray_w</item>
+    </style>
+    <style name="Base.Theme.Verifyenergy" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+        <item name="colorPrimary">@color/black</item> -->
+        <item name="colorOnSecondary">@color/white</item>
+
+
+    </style>
+    <style name="backgroundTint">
+    <item name="android:backgroundTint">@color/yellow</item>
+    </style>
+</resources>
